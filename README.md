@@ -1,4 +1,9 @@
 # EC44A---ED2---Exercicio-de-Implementa-o-Grafos
+Alunos:
+
+//Stefano Calheiros Stringhini R.A.: 2312123
+
+//Victor Ribeiro Calado R.A.: 2313553
 
 Exercício de Implementação Grafos:
 
